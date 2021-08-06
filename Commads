@@ -1,1 +1,9 @@
-
+pwd= Present working directory
+ls = List the files of current directory 
+cd folder/directory = Get in that file or directory 
+cd .. = Go back to previous directory 
+mkdir= Make directory
+rmdir= Remove directory
+ls -la = Look for hidden folders
+echo "Hello World" > test.txt = Creating file and putting "Hello World" in file
+cp test.text Documents = Copy file frome one folder to another
