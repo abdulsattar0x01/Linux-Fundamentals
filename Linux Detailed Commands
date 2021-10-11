@@ -1,0 +1,5 @@
+We can then view additional information about a package.
+
+  Advanced Package Manager (APT)
+  
+apt-cache show impacket-scripts
